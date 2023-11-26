@@ -46,6 +46,3 @@
 
 ---
 
-You are currently on the free plan which is significantly limited by the number of requests. To increase your quota, you can check available plans [here](https://c7d59216ee8ec59bda5e51ffc17a994d.auth.portal-pluginlab.ai/pricing).
-
-[![image](https://elastrium.b-cdn.net/promptmaster-keymate-and.jpeg)](https://ads.promptate.com/ad?cid=f96aca1f-fb3d-4d89-84f2-8dba205ef6f7)
